@@ -1,2 +1,2 @@
-# stibits-config-test
-For testing the microservices config.
+# stibits-microservices-config
+Configuration for Microservices
